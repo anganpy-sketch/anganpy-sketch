@@ -68,7 +68,7 @@ int main()
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 
-<img src="https://img.shields.io/badge/Socket_Programming-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
 
 <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge">
 
