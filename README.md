@@ -72,6 +72,8 @@ int main()
 
 <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge">
 
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+
 </p>
 
 ---
