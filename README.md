@@ -33,7 +33,7 @@ int main()
 }
 ```
 
-### *"Fuck around. Find out. Build stuff."*
+### *"Fuck around. Find out."*
 
 </div>
 
@@ -174,6 +174,6 @@ Cybersecurity
 
 <div align="center">
 
-### Building software to understand software.
+### I came. I saw. I forgot the semicolon.
 
 </div>
