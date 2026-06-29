@@ -2,6 +2,7 @@
 
 ```cpp
 #include <iostream>
+#include <string>
 #include <vector>
 using namespace std;
 
@@ -35,6 +36,7 @@ int main()
 
 * B.Tech CSE student at KIIT
 * From West Bengal, studying in Bhubaneswar
+* Learning by breaking things and pretending it was research
 * I disappear, take brain damage, then come back stronger
 
 ---
