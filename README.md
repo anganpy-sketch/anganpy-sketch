@@ -12,9 +12,7 @@ int main()
     string skill_level = "Professional Noob";
 
     vector<string> trying_to_survive = {
-        "C++", "Compiler Design", "Linux",
-        "Networking", "Python", "AI",
-        "Cybersecurity", "Web Dev"
+        "OCD", "ADHD" , "Mental Breakdowns"
     };
 
     while (confused)
@@ -39,7 +37,6 @@ int main()
 * From West Bengal, studying in Bhubaneswar
 * I build stuff first, understand it later
 * I disappear, take brain damage, then come back stronger
-* Most of my learning style is: **break → panic → debug → pretend it was research**
 
 ---
 
@@ -49,20 +46,6 @@ int main()
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bash,linux,git,github,vscode,numpy" />
 </p>
 
-<p align="center">
-  <code>C</code>
-  <code>C++</code>
-  <code>Python</code>
-  <code>HTML</code>
-  <code>CSS</code>
-  <code>JavaScript</code>
-  <code>Bash</code>
-  <code>Linux</code>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>VS Code</code>
-  <code>NumPy</code>
-</p>
 
 Sometimes they work.
 Sometimes they start a boss fight.
@@ -103,7 +86,6 @@ Sometimes they start a boss fight.
 
 ```text
 status: confused
-bugs: unlimited
 confidence: depends on the compiler
 comeback: always
 ```
