@@ -42,16 +42,18 @@ int main()
 ## Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bash,linux,git,github,vscode,ai" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,bash,linux,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-Professional%20Array%20Abuser-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Math%20Attacked%2C%20I%20Negotiated-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-Array%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-From%20Scratch-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Learning%20the%20Dark%20Arts-8A2BE2?style=for-the-badge" />
 </p>
 
 Sometimes they work.
 Sometimes they start a boss fight.
+
 
 
 ---
