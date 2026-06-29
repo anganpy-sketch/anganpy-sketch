@@ -80,7 +80,6 @@ Sometimes they start a boss fight.
 
 ---
 
-<div align="center">
 
 ### I came. I saw. I forgot the semicolon.
 
