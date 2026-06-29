@@ -1,171 +1,96 @@
-
-
 # Hey, I'm Angan 👋
 
 ```cpp
 #include <iostream>
+#include <vector>
 using namespace std;
 
 int main()
 {
     string name = "Angan Ghosh";
+    string role = "CSE Student";
+    string skill_level = "Professional Noob";
 
-    string education = "B.Tech CSE @ KIIT";
-
-    vector<string> interests =
-    {
-        "Compiler Design",
-        "System Programming",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Networking",
-        "Linux"
+    vector<string> trying_to_survive = {
+        "C++", "Compiler Design", "Linux",
+        "Networking", "Python", "AI",
+        "Cybersecurity", "Web Dev"
     };
 
-    while (alive)
+    while (confused)
     {
-        learn();
-        build();
-        experiment();
+        google();
+        debug();
+        question_life();
+        try_again();
     }
 
     return 0;
 }
 ```
 
-### *"Fuck around. Find out."*
-
-</div>
+> Currently a noob. Future threat loading... maybe.
 
 ---
 
-# 🚀 About Me
+## About Me
 
-* 🎓 B.Tech CSE @ KIIT University
-* 📍 West Bengal • Studying in Bhubaneswar
-* ⚙️ Currently building a compiler from scratch in C++
-* 🐧 Linux & Bash enthusiast
-* 🌐 Interested in System Programming & Networking
-* 🤖 Exploring Machine Learning & Artificial Intelligence
-* 🔐 Learning Cybersecurity
-* 💻 I enjoy understanding software by building it from the ground up.
+* B.Tech CSE student at KIIT
+* From West Bengal, studying in Bhubaneswar
+* I build stuff first, understand it later
+* I disappear, take brain damage, then come back stronger
+* Most of my learning style is: **break → panic → debug → pretend it was research**
 
 ---
 
-# ⚒️ Languages & Tools
+## Tools I Use
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bash,linux,git,github,vscode,numpy" />
+</p>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
-<img src="https://img.shields.io/badge/Compiler_Design-5C2D91?style=for-the-badge">
-<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge">
+<p align="center">
+  <code>C</code>
+  <code>C++</code>
+  <code>Python</code>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+  <code>Bash</code>
+  <code>Linux</code>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>VS Code</code>
+  <code>NumPy</code>
+</p>
 
+Sometimes they work.
+Sometimes they start a boss fight.
+
+---
+
+## Collection
+
+* **C++ Compiler** — because apparently normal projects were too emotionally stable
+* **Basic Chat Server** — two terminals socializing better than me
+* **Terminal ChatBot** — AI assistant with more confidence than its creator
+* **Port Scanner** — scans ports, avoids scanning my bad decisions
+* **Log Analyzer** — finds errors in logs, sadly not in my life
+* **ML From Scratch** — math attacked, I negotiated
+* **Web Experiments** — HTML, CSS, JS, and emotional damage
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anganpy-sketch&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anganpy-sketch&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
-
-## 🚀 C++ Compiler *(In Progress)*
-
-Building a compiler completely from scratch.
-
-**Completed**
-
-* ✅ Lexer / Tokenizer
-* ✅ Recursive Descent Parser
-
-**Upcoming**
-
-* ⏳ AST Generation
-* ⏳ Semantic Analysis
-* ⏳ Type Checking
-* ⏳ Code Generation
-
----
-
-## 💬 Basic Chat Server
-
-TCP socket-based chat application written in C.
-
-**Concepts Used**
-
-* Socket Programming
-* Client-Server Architecture
-* TCP Communication
-* Linux Networking APIs
-
----
-
-## 🤖 Terminal ChatBot
-
-Terminal-based AI chatbot powered by Gemini.
-
-**Features**
-
-* Conversation History
-* Command Support
-* Personality System
-
----
-
-## 🔍 Python Port Scanner
-
-Simple network scanner built using Python sockets.
-
-**Features**
-
-* Open Port Detection
-* Custom Port Ranges
-* Fast Scanning
-* Network Exploration
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=anganpy-sketch&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anganpy-sketch&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Learning Path
-
-```text
-C
- ↓
-C++
- ↓
-Data Structures & Algorithms
- ↓
-Compiler Design
- ↓
-Operating Systems
- ↓
-Linux & Networking
- ↓
-Machine Learning
- ↓
-Cybersecurity
-```
-
----
-
-# 📫 Connect With Me
+## Connect
 
 * GitHub: https://github.com/anganpy-sketch
 * LinkedIn: https://www.linkedin.com/in/angan-ghosh-763195413/
@@ -175,5 +100,12 @@ Cybersecurity
 <div align="center">
 
 ### I came. I saw. I forgot the semicolon.
+
+```text
+status: confused
+bugs: unlimited
+confidence: depends on the compiler
+comeback: always
+```
 
 </div>
