@@ -45,8 +45,8 @@ int main()
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Learning%20From%20Scratch-7F52FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Professional%20Array%20Abuser-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AI%20%2F%20ML-7F52FF?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-Professional%20Array%20Abuser-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 
